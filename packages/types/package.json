@@ -20,8 +20,8 @@
     "mocha": "^8.2.1"
   },
   "dependencies": {
-    "@cosmjs/launchpad": "^0.24.0-alpha.25",
-    "@cosmjs/proto-signing": "^0.24.0-alpha.25",
+    "@cosmjs/launchpad": "^0.24.0",
+    "@cosmjs/proto-signing": "^0.24.0",
     "axios": "^0.21.0",
     "long": "^4.0.0",
     "secretjs": "^0.16.0"
