@@ -30,7 +30,7 @@
     "@keplr-wallet/router": "^0.8.8",
     "@keplr-wallet/types": "^0.8.13",
     "@keplr-wallet/unit": "^0.8.13",
-    "axios": "^0.21.0",
+    "axios": "^1.6.0",
     "buffer": "^6.0.3",
     "deepmerge": "^4.2.2",
     "mobx": "^6.1.7",
