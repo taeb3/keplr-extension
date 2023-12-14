@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@cosmjs/launchpad": "^0.24.0-alpha.25",
-    "@cosmjs/proto-signing": "^0.24.0-alpha.25",
+    "@cosmjs/proto-signing": "^0.25.0",
     "@keplr-wallet/common": "^0.8.8",
     "@keplr-wallet/cosmos": "^0.8.13",
     "@keplr-wallet/crypto": "^0.8.13",
@@ -46,7 +46,7 @@
     "reflect-metadata": "^0.1.13",
     "scrypt-js": "^3.0.1",
     "secp256k1": "^4.0.2",
-    "secretjs": "^0.16.0",
+    "secretjs": "^1.4.0",
     "tsyringe": "^4.4.0"
   }
 }
