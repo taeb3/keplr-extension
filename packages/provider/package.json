@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@cosmjs/encoding": "^0.24.0-alpha.25",
-    "@cosmjs/launchpad": "^0.24.0-alpha.25",
-    "@cosmjs/proto-signing": "^0.24.0-alpha.25",
+    "@cosmjs/launchpad": "^0.24.0",
+    "@cosmjs/proto-signing": "^0.24.0",
     "@keplr-wallet/background": "^0.8.13",
     "@keplr-wallet/cosmos": "^0.8.13",
     "@keplr-wallet/router": "^0.8.8",
@@ -30,6 +30,6 @@
     "@keplr-wallet/unit": "^0.8.13",
     "buffer": "^6.0.3",
     "deepmerge": "^4.2.2",
-    "secretjs": "^0.16.0"
+    "secretjs": "^1.4.7"
   }
 }
